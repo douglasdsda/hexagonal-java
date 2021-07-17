@@ -1,14 +1,6 @@
 # hexagonal-demo
 
-Aplicação criada por [@soterocra](https://github.com/soterocra) para demonstrar um cenário e caso de uso de um microservice no formato hexagonal.
-
-Aqui você encontra uma narrativa para justificar o uso deste sistema e um desenho de como foi pensado a solução técnica.
-
-O único microservice que respeita as diretivas do padrão é o [ms-proposta-rapida-receiver](https://github.com/soterocra/hexagonal-demo/tree/main/app/ms-proposta-rapida-receiver). Os demais estão presentes apenas para compor o cenário proposto e utilizam a separação em camadas como design da aplicação.
-
-Você pode consultar baixar esse projeto na branch main para obter a versão COMPLETA mais recente, ou pode acessar a branch [main-without-receiver](https://github.com/soterocra/main-without-receiver/tree/main) para ter a última versão do código sem o `ms-proposta-rapida-receiver`. Isso possibilita que você tente construir o seu próprio receiver.
-
-Obs: Esse repositório foi inicialmente construído para demonstração do conceito de [Arquitetura Hexagonal](https://alistair.cockburn.us/hexagonal-architecture/) em turmas de graduação do [IFTM](https://iftm.edu.br/) e para a comunidade externa.
+Aplicação desenvolvida durante na III STI e palestrada por [@soterocra](https://github.com/soterocra)
 
 ## Arquitetura Hexagonal
 
